@@ -1,0 +1,13 @@
+{
+    "category": "other",
+    "summary": "i have not seen my goods yet",
+    "sentiment": "neutral",
+    "urgency": "low",
+    "keywords": [
+        "not",
+        "seen",
+        "goods",
+        "yet"
+    ],
+    "suggested_action": "Review the message and determine the appropriate response."
+}
